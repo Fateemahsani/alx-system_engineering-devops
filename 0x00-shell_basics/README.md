@@ -1,1 +1,1 @@
-life is a series
+file type school
