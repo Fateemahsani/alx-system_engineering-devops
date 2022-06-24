@@ -1,1 +1,1 @@
-let move
+clear emacs
