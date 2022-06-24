@@ -1,1 +1,1 @@
-content list
+home directory
