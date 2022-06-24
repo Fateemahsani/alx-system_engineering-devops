@@ -1,1 +1,1 @@
-betty in first
+bye bye betty
