@@ -1,1 +1,1 @@
-scrip working directory that change users home
+current directory in long format
