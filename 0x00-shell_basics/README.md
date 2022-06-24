@@ -1,1 +1,1 @@
-current directory content including hide
+long format with users group
