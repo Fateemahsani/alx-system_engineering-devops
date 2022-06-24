@@ -1,1 +1,1 @@
-current directory in long format
+current directory content including hide
