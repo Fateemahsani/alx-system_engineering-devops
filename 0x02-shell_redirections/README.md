@@ -1,3 +1,1 @@
-Hello world
-good
-
+Write a script that prints “Hello, World”
