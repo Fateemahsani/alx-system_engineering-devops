@@ -1,1 +1,5 @@
-Write a script that displays a confused smiley”
+
+# shell I/O Redirection and filter
+0.Hello World- > Write a script that prints “Hello, World”, followed by a new line to the standard output.
+
+
